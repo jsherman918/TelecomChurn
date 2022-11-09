@@ -1,7 +1,7 @@
 ## SyriaTel Churn 
 Syriatel is a communications company hoping to prevent customer churn.  They have provided me with their customer data to predict churn using classification regression.
 ### Feature Analysis
-![feature_analysis.png](attachment:feature_analysis.png)
+![feature_analysis.png](images/feature_analysis.png)
 
 Day charge is the feature most responsible for churn.  Customers are clearly price sensitive.
 #### Customer Service Calls
